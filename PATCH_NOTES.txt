@@ -1,3 +1,6 @@
+1.14.90
+- NEW Light bar removes MythosOnline's window border so the game fills the space above the bar (no see-through gap).
+
 1.14.89
 - Login sits on top in the center of the screen so it is not hidden under MythosOnline.
 
