@@ -1,3 +1,6 @@
+1.14.97
+- NEW Heal checklist shows each rule's name (Heal - Exura at 70%) instead of the old slot labels Heal 1 / Heal 2 / Mana 1.
+
 1.14.96
 - NEW Heal checklist has a pencil on every rule. It opens the Config Builder flush to the right of the list (one card, not a window that falls off the bottom of the screen). ESC closes the editor first, then the checklist.
 
