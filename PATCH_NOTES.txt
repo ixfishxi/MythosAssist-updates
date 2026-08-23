@@ -1,3 +1,6 @@
+1.14.82
+- EQ recognizes equipped ring client IDs (sword ring 3094) instead of showing the ring slot as empty.
+
 1.14.81
 - EQ lists a 1-Hand and a 2-Hand weapon suggestion as separate rows.
 
