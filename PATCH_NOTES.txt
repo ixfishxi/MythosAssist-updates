@@ -1,3 +1,6 @@
+1.15.1
+- NEW Heal Add/Edit Rule lets you pick the checklist icon (spark, potion, heart, drop, plus, shield, rune, bolt) and a color. The choice is saved with the rule.
+
 1.15.0
 - NEW Heal Edit Rule no longer freezes Assist (the old dropdown on the overlay hung Windows). Self vs Friend/Party tabs: Friend/Party types an ally name, sends the spell on talk (Exura Sio "Name"), and uses ally HP plus your HP/MP gates. Checklist width follows the longest rule name.
 
