@@ -1,3 +1,6 @@
+1.14.92
+- NEW Heal tab shows the six live HP/MP rules (Heal 1–3, Mana 1–3): on/off, percent, action, and status. Same healbot as the old tab. Add Rule, Sio, and MP> wait.
+
 1.14.91
 - NEW bar tabs open cream popouts up over chat. Heal shows empty Heal Rules chrome (+ Add Rule); other tabs are placeholders. Healbot is not wired yet.
 
