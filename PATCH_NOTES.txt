@@ -1,3 +1,6 @@
+1.14.87
+- NEW Light bar no longer unmaximizes MythosOnline. Maximize fills the screen minus the bar; closing NEW restores the previous size.
+
 1.14.86
 - Title-bar NEW opens the 2.0 Light bar: cream strip under MythosOnline, above the Windows taskbar. Click NEW again to restore the client. Tabs are visual only for now.
 
