@@ -1,3 +1,6 @@
+1.14.93
+- NEW Heal is a compact rounded checklist of named rules (toggle + icon + name). Add Rule opens the Config Builder: HP and MP can both be on, slider, Spell/Rune/Potion/Hotkey, optional Sio. Same healbot slots as the old tab.
+
 1.14.92
 - NEW Heal tab shows the six live HP/MP rules (Heal 1–3, Mana 1–3): on/off, percent, action, and status. Same healbot as the old tab. Add Rule, Sio, and MP> wait.
 
