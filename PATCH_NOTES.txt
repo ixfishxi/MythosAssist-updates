@@ -1,0 +1,269 @@
+1.14.76
+- After an Assist Update, Patch Notes can pop up with only what is new since the last version you ran.
+- Other tab Show Patch Notes on Update is on by default; the full i list marks Since you've been gone at that last version.
+
+1.14.75
+- Title-bar EQ compares your worn gear to items that actually drop on the map, and names the creature.
+- Weapons follow your highest axe/club/sword skill and prefer two-handed; Zaoan Legs beat Golden Legs because of 2% physical.
+
+1.14.74
+- Double-click a creature-map row to open Browse; rows with no Temple SQM are not jumped.
+- Browse now waits for Explore to open, then centers on that creature's densest spawn tile.
+
+1.14.73
+- Recalculate creature-map Loot/kill from playmythos drop chance x the highest NPC buy price, including gold coins.
+
+1.14.72
+- Replace Alerts Resume After with Pause Cbot: pause while the alert is on, then resume when it clears.
+- Disable CBot and Pause Cbot are exclusive, and those columns line up across every alert row.
+
+1.14.71
+- Cave tab: drop the Route intro line, put the route library first, and merge Walk + Lure into one settings strip.
+
+1.14.70
+- Title-bar M opens a sortable creature database (HP, mana, EXP, Exp/H, count, temple SQM, loot/kill).
+- Click a row to open client Browse and jump to that creature's densest spawn.
+
+1.14.69
+- Title-bar i opens Patch Notes so you can read every Assist ship.
+- Each version push prepends an entry here.
+
+1.14.68
+- Align Other-tab client and tools buttons into matching-width columns.
+
+1.14.67
+- Show the Assist version beside Bot Updater like the client version.
+
+1.14.66
+- Auto-patch fire on a new MythosOnline PID when Auto Patch Fire is on.
+
+1.14.65
+- Ask before cancelling a Grizzly Adams hunting task.
+
+1.14.64
+- Resume Cavebot after an alert clears when Resume After is checked.
+
+1.14.63
+- Filter Haste and Buff dropdowns to the logged-in vocation's spells.
+
+1.14.62
+- Give the Cave tab labeled bands and quieter chips so the controls are easier to scan.
+
+1.14.61
+- Mark staked corpses as a yellow pillow so they stay visible on every floor.
+
+1.14.60
+- Add experimental Cavebot Lure so you can pack creatures before stopping to fight.
+
+1.14.59
+- Walk to a party member from minimap markers instead of using the follow system.
+
+1.14.58
+- Let Auto Attack named creatures use priority 1 first instead of nearest listed.
+
+1.14.57
+- Let Blessed Stake list rows be renamed so corpses are easier to tell apart.
+
+1.14.56
+- Widen the Auto Follow name box so longer creature names fit.
+
+1.14.55
+- Show staked bodies as a dead butterfly so blessed-stake leftovers are obvious.
+
+1.14.54
+- Add every 8.6 support buff from the Mythos spell page to the Auto Buff dropdown.
+
+1.14.53
+- Move Manage Active Hunting Tasks and Grizzly under On Top, above the client buttons.
+
+1.14.52
+- Prefix active Grizzly hunting tasks with [ACTIVE] in the Other-tab dropdown.
+
+1.14.51
+- Group Other-tab actions into Client and Tools rows so the buttons are not stacked.
+
+1.14.50
+- Lock Heal, Mana, Sio, Follow, and other row settings while the row is checked.
+
+1.14.49
+- Make named Follow work for NPCs like Menacing Mummy.
+
+1.14.48
+- Put Track EXP to the left of Patch Fire on the Other tab.
+
+1.14.47
+- Add an EXP/h title-bar stat with Track/Reset EXP on the Other tab.
+
+1.14.46
+- Remove the Download .82 button from the Other tab.
+
+1.14.45
+- Widen the Grizzly task dropdown so names like High Class Lizards are not clipped.
+
+1.14.44
+- Swap the unpaused Client Build hunting task to the current target from the Other tab.
+
+1.14.43
+- Add a Grizzly Adams dropdown with Start and Cancel on the Other tab.
+
+1.14.42
+- Add a waypoint Action button for X-Log and Close Client.
+
+1.14.41
+- Look up Follow names in creature storage so on-screen players are not missed.
+
+1.14.40
+- Add Follow with a name box: creature on screen, else that player.
+
+1.14.39
+- Let spell-attack rules be reordered so the top row always wins.
+
+1.14.38
+- Stop HP/MP settings from leaking between named setups.
+
+1.14.37
+- Split spell-attack rules into 1, 2, and 3+ monster slots.
+
+1.14.36
+- Raise target-spell Dist max from 5 to 7 squares.
+
+1.14.35
+- Replace Blue Rune Arrow with Download .82 that installs the pinned GitHub client zip.
+
+1.14.34
+- Keep a catalog of Mythos client Drive download links for every seen version.
+
+1.14.33
+- Keep previous Mythos client folders and zips on Desktop when Assist updates playMythos.
+
+1.14.32
+- Treat a non-stackable ammo-slot item as occupied so Blue Rune Arrow can UseWith onto an axe.
+
+1.14.31
+- Add a Blue Rune Arrow probe that UseWiths Upgrade Gem 11739 onto the ammo slot.
+
+1.14.30
+- Add an Auto Buff row that recasts Utito Tempo when the strengthened icon is off.
+
+1.14.29
+- Let Heal 1-3 and Mana 1-2 drink potions from open bags instead of requiring hotkeys.
+
+1.14.28
+- Keep Tie controls to above the Create an Icon picker so the dropdown is usable.
+
+1.14.27
+- When Avoid Waves is on, Keep Away kites diagonally off the beam.
+
+1.14.26
+- Stop Keep Away from backing into corners with no 4-5 square kite lane.
+
+1.14.25
+- Rename the Target tab Keep Dist checkbox to Hold Dist.
+
+1.14.24
+- Let overlay icon captions be renamed so Show Labels can show a custom name.
+
+1.14.23
+- Add Show Labels so placed overlay icons caption the feature name, not the item sprite.
+
+1.14.22
+- Speed up Create an Icon by dropping junk market items and lazy-loading the picker.
+
+1.14.21
+- Let Auto Atk use an optional creature name list so it can ignore everything else.
+
+1.14.20
+- Follow a fleeing target at the Keep away range when Keep Dist is checked.
+
+1.14.19
+- Add Disable CBot on Player, Skull, Cap, and Offline alerts so cavebot can stop when those fire.
+
+1.14.18
+- Remove unused Hang Restart so Assist no longer kills and relaunches the client.
+
+1.14.17
+- Drop the built-in overlay tray icons so every icon is created by the user.
+
+1.14.16
+- Use the Mythos client's real Tibia item PNGs for overlay icons.
+
+1.14.15
+- Show every overlay item category instead of locking Create an Icon to potions.
+
+1.14.14
+- Grow the overlay icon library with Tibia item sprites and missing Assist toggles.
+
+1.14.13
+- Save named cave scripts on every waypoint edit so Load and setups see the live route.
+
+1.14.12
+- Make cavebot Use click the real door or food instead of the player or ground.
+
+1.14.11
+- Keep Ctrl-drag moving overlay icons instead of leaving a stuck ghost window.
+
+1.14.10
+- Show GM ONLINE / GM ONSCREEN in the title and repeat the Pikus alert every 5 seconds.
+
+1.14.9
+- Let you create overlay icons from a sprite list and bind each one to any Assist feature.
+
+1.14.8
+- Add a cavebot Move command that steps one square N/S/E/W or diagonally.
+
+1.14.7
+- Snap cavebot to the nearest tile after a teleport instead of walking back to the pad.
+
+1.14.6
+- Keep the cave arrow on Wait until the timer finishes.
+
+1.14.5
+- Allow Skip Near 0 so cave Stands wait for the exact tile.
+
+1.14.4
+- Let you click a Wait, Label, Cap/Item check, or NPC Say to edit its fields.
+
+1.14.3
+- Let overlay icons be Ctrl-moved, Shift-resized, and faded with a transparency slider.
+
+1.14.2
+- Add a cavebot Turn action that faces N/E/S/W in the client.
+
+1.14.1
+- Fix cave Wait so the next tile is walked instead of skipping back to the previous waypoint.
+
+1.14.0
+- Replace K/S/D/P slots with named setups that auto-load per character, including the bound cave script.
+
+1.13.27
+- Add Use Blessed Stake on Auto and Overlay: listed corpse ids, top-item only, stake if no creatures or HP over 80%.
+
+1.13.26
+- Keep away skips walls, corners, and alcoves using MiniMap tile costs.
+
+1.13.25
+- Keep away kites without Cave: step away from the target, and only use last waypoint when Cave is on.
+
+1.13.24
+- Fix Keep away so it steps back and cave sleep cannot cancel the kite.
+
+1.13.23
+- Match Keep away to Bbot Keep Distance: exact ring, walk in or out, history bias.
+
+1.13.22
+- Add Keep away (Beta) kite: stay N squares back toward the last cave waypoint.
+
+1.13.21
+- Shorten floor-change travel pause from 1.5s to 500ms so attack resumes sooner.
+
+1.13.20
+- Make cloud script delete use the catalog SHA so it no longer fails with no cloud script.
+
+1.13.19
+- Allow renaming and confirmed deletion of public cloud cave scripts.
+
+1.13.18
+- Add public cave-script catalog: Browse anyone, Push Script to Cloud via GitHub.
+
+1.13.17
+- Store cave scripts as readable files in scripts/ and add an Edit dialog with copy and paste.
