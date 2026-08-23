@@ -1,3 +1,6 @@
+1.14.91
+- NEW bar tabs open cream popouts up over chat. Heal shows empty Heal Rules chrome (+ Add Rule); other tabs are placeholders. Healbot is not wired yet.
+
 1.14.90
 - NEW Light bar removes MythosOnline's window border so the game fills the space above the bar (no see-through gap).
 
