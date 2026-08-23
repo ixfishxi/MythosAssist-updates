@@ -1,3 +1,6 @@
+1.14.99
+- NEW Heal checklist drops the Status: Ready row. + Add Rule sits in the top-right of the Heal window.
+
 1.14.98
 - NEW Heal Add/Edit Rule lets you type the HP and MP percent (with a % box) instead of only dragging the slider. Click the box and type a number 1–100.
 
