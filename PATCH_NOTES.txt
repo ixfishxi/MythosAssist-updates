@@ -1,3 +1,6 @@
+1.14.94
+- NEW bar keeps the Scripts tab in place but grayed out (not clickable) until that feature is designed.
+
 1.14.93
 - NEW Heal is a compact rounded checklist of named rules (toggle + icon + name). Add Rule opens the Config Builder: HP and MP can both be on, slider, Spell/Rune/Potion/Hotkey, optional Sio. Same healbot slots as the old tab.
 
