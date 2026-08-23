@@ -1,3 +1,6 @@
+1.14.96
+- NEW Heal checklist has a pencil on every rule. It opens the Config Builder flush to the right of the list (one card, not a window that falls off the bottom of the screen). ESC closes the editor first, then the checklist.
+
 1.14.95
 - ESC closes the open NEW Heal popout / Add Rule window so you can get out of it fast, even if the game has focus. If nothing is open, ESC still minimizes Assist.
 
