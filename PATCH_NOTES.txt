@@ -1,3 +1,6 @@
+1.14.80
+- EQ reads every body slot and maps client item IDs (Dragon Scale Mail 3386) so worn armor is not shown as empty.
+
 1.14.79
 - EQ recognizes worn client item IDs (Royal Helmet 3392) instead of suggesting the same item.
 
