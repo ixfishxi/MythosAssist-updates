@@ -1,3 +1,6 @@
+1.14.81
+- EQ lists a 1-Hand and a 2-Hand weapon suggestion as separate rows.
+
 1.14.80
 - EQ reads every body slot and maps client item IDs (Dragon Scale Mail 3386) so worn armor is not shown as empty.
 
