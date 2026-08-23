@@ -1,3 +1,6 @@
+1.14.84
+- A quiet bottom-right toast (with a small ding) appears about once an hour when a newer Assist or Mythos client is available.
+
 1.14.83
 - Title-bar NEW (left of resize) is a flashing placeholder for the upcoming Assist look.
 
