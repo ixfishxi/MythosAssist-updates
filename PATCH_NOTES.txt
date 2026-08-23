@@ -1,3 +1,6 @@
+1.14.86
+- Title-bar NEW opens the 2.0 Light bar: cream strip under MythosOnline, above the Windows taskbar. Click NEW again to restore the client. Tabs are visual only for now.
+
 1.14.85
 - Sign-in screen on launch (Remember Me keeps it from showing again). Three failed logins close Assist.
 
