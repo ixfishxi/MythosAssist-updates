@@ -1,3 +1,9 @@
+1.14.89
+- Login sits on top in the center of the screen so it is not hidden under MythosOnline.
+
+1.14.88
+- Fix Assist Update 1.14.86/87 failing to start (No module named gui).
+
 1.14.87
 - NEW Light bar no longer unmaximizes MythosOnline. Maximize fills the screen minus the bar; closing NEW restores the previous size.
 
