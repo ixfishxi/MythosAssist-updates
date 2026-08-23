@@ -1,3 +1,6 @@
+1.14.78
+- Creature Map jump keeps MythosOnline fullscreen instead of shrinking the window.
+
 1.14.77
 - Creature Map Hide Missing creatures hides rows with no Temple SQM.
 
