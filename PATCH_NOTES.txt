@@ -1,3 +1,6 @@
+1.14.98
+- NEW Heal Add/Edit Rule lets you type the HP and MP percent (with a % box) instead of only dragging the slider. Click the box and type a number 1–100.
+
 1.14.97
 - NEW Heal checklist shows each rule's name (Heal - Exura at 70%) instead of the old slot labels Heal 1 / Heal 2 / Mana 1.
 
