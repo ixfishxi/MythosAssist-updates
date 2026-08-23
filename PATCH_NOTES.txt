@@ -1,3 +1,6 @@
+1.16.0
+- NEW Cave tab: first click is a Quick Add strip (Stand, Use, N/S/E/W, Rope, Shovel) flush on the Light bar. Expand opens the full route card (Route save/load/browse, Walk, Lure, Tiles, Logic, waypoint list) bound to the same cave bot and scripts/*.txt as the old tab. ESC docks, then closes.
+
 1.15.2
 - NEW Heal can keep up to 10 rules. Adding another no longer overwrites an existing one; the 11th add is blocked until you drop a rule.
 
