@@ -1,3 +1,6 @@
+1.15.2
+- NEW Heal can keep up to 10 rules. Adding another no longer overwrites an existing one; the 11th add is blocked until you drop a rule.
+
 1.15.1
 - NEW Heal Add/Edit Rule lets you pick the checklist icon (spark, potion, heart, drop, plus, shield, rune, bolt) and a color. The choice is saved with the rule.
 
