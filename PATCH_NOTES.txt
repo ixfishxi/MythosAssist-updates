@@ -1,3 +1,6 @@
+1.14.77
+- Creature Map Hide Missing creatures hides rows with no Temple SQM.
+
 1.14.76
 - After an Assist Update, Patch Notes can pop up with only what is new since the last version you ran.
 - Other tab Show Patch Notes on Update is on by default; the full i list marks Since you've been gone at that last version.
