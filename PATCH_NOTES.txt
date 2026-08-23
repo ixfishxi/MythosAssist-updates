@@ -1,3 +1,6 @@
+1.15.0
+- NEW Heal Edit Rule no longer freezes Assist (the old dropdown on the overlay hung Windows). Self vs Friend/Party tabs: Friend/Party types an ally name, sends the spell on talk (Exura Sio "Name"), and uses ally HP plus your HP/MP gates. Checklist width follows the longest rule name.
+
 1.14.99
 - NEW Heal checklist drops the Status: Ready row. + Add Rule sits in the top-right of the Heal window.
 
