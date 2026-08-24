@@ -1,3 +1,6 @@
+1.29.0
+- Icons Create: item catalog and Bind to action sit side by side so the grid uses the 760-wide popout instead of stacking under a tall bind list. Sprite groups wrap, bind groups wrap, and the live action list scrolls.
+
 1.28.0
 - Icons Create: Bind to action is a live grouped list instead of a button dump. Heal only offers the rules currently on the Heal tab (including extra rules), and other groups show bot toggles that actually exist, with ON/off.
 
