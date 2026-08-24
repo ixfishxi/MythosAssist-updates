@@ -1,3 +1,6 @@
+1.21.0
+- NEW Settings tab: categorized Session / Window / Tasks / Updates bound to the same Other-tab hosts (Anti Idle, Relog, Require Focus, Show Patch Notes, On Top, Grizzly Start/Cancel, Manage Active Hunting Tasks, Auto Patch Fire, and the live client/Assist updaters). Click opens, click again or ESC closes.
+
 1.20.0
 - NEW Icons tab: tray with Transparency and Show Labels, created icons (green on / red off), and an in-card Create Icon catalog. Drag onto the client uses the same overlay icons as the old Overlay tab. Click opens, click again or ESC closes (ESC first leaves the catalog).
 
