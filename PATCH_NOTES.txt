@@ -1,3 +1,6 @@
+1.31.0
+- Icons Create: Random is a new catalog group with a CC BY 3.0 Game-icons.net pack (Lorc) — fantasy swords, flasks, beasts, and maps that are not Tibia item art.
+
 1.30.0
 - Overlay type is 75% larger across the Light bar and every popout (Heal through Save). Windows grew just enough to stay readable and tidy, and tall cards stop before they cover the client.
 
