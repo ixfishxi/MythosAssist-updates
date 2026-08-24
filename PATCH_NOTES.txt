@@ -1,3 +1,6 @@
+1.28.0
+- Icons Create: Bind to action is a live grouped list instead of a button dump. Heal only offers the rules currently on the Heal tab (including extra rules), and other groups show bot toggles that actually exist, with ON/off.
+
 1.27.0
 - Other and Settings Updates: Get 1.14.82 downloads the previous stable Assist from GitHub so you can revert from 2.0 without hunting old exes.
 
