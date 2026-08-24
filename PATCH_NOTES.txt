@@ -1,3 +1,6 @@
+1.17.0
+- NEW Target tab: master-detail Attack Rules (creature list, Auto Atk range, 1 / 2 / 3+ spells, Safe) plus a Movement strip (Follow Name, Party Follow, Follow on Target, Avoid Waves, Keep Away). Same targeting objects and setup JSON as the old tab. Click opens, click again or ESC closes.
+
 1.16.0
 - NEW Cave tab: first click is a Quick Add strip (Stand, Use, N/S/E/W, Rope, Shovel) flush on the Light bar. Expand opens the full route card (Route save/load/browse, Walk, Lure, Tiles, Logic, waypoint list) bound to the same cave bot and scripts/*.txt as the old tab. ESC docks, then closes.
 
