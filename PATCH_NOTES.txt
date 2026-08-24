@@ -1,3 +1,6 @@
+1.37.0
+- Settings Tasks: Grizzly shows about seven hunting tasks at a time; scroll the list to reach the rest instead of stacking all 40+ names in the popout.
+
 1.36.0
 - Auto shows only the helpers you add. + Add Auto Rule opens a catalog (BUFFS / WORLD / AMMO); pick one to put it on the list with its own Config Builder. Drop with ×. Old setups still list helpers that were already on.
 
