@@ -1,3 +1,6 @@
+1.34.0
+- Cave expanded Browse opens a real file window in scripts/ so you pick a .txt route instead of stretching an inline list under the Route row.
+
 1.33.0
 - Alerts: every rule now has full Target Action and Cave Action (Off / Pause / Disable), including Monster. T and C are independent — pause or disable targeting without touching Cave Walk, and the other way around.
 
