@@ -1,3 +1,6 @@
+1.32.0
+- Icons: name a created icon on the Create Icon footer, or double-click the tray caption to rename it. Same label Show Labels uses under the icon on the client.
+
 1.31.0
 - Icons Create: Random is a new catalog group with a CC BY 3.0 Game-icons.net pack (Lorc) — fantasy swords, flasks, beasts, and maps that are not Tibia item art.
 
