@@ -1,3 +1,6 @@
+1.20.0
+- NEW Icons tab: tray with Transparency and Show Labels, created icons (green on / red off), and an in-card Create Icon catalog. Drag onto the client uses the same overlay icons as the old Overlay tab. Click opens, click again or ESC closes (ESC first leaves the catalog).
+
 1.19.0
 - NEW Alerts tab: grouped list (Players, World, GM) plus a Config Builder. T/C squares pause or disable Cave; targeting Disable is only on GM Pikus On Screen. Same seven live alerts as the old tab. Click opens, click again or ESC closes.
 
