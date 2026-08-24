@@ -1,3 +1,6 @@
+1.25.0
+- NEW Target Movement: Follow and Spacing sit in two stacked columns instead of one crowded row (Follow Name, Party Follow, Follow on Target / Avoid Waves, Keep Away, Hold Dist).
+
 1.24.0
 - NEW Light bar: EQ, M, and i sit to the right of the MP meter and open the same Equipment, Creature Map, and Patch Notes windows as the title bar. Alert / Targ / CBot / MASTER pips stay in lockstep with the old vitals toggles.
 
