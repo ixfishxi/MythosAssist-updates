@@ -1,3 +1,6 @@
+1.18.0
+- NEW Auto tab: list + Config Builder for Haste, Mana Shield, Buff, Change Gold, Shovel Sand, Always Shovel Sand, Blessed Stake, Arrow Fill, and Hand Fill. Same auto objects as the old tab. Click opens, click again or ESC closes.
+
 1.17.0
 - NEW Target tab: master-detail Attack Rules (creature list, Auto Atk range, 1 / 2 / 3+ spells, Safe) plus a Movement strip (Follow Name, Party Follow, Follow on Target, Avoid Waves, Keep Away). Same targeting objects and setup JSON as the old tab. Click opens, click again or ESC closes.
 
