@@ -1,3 +1,6 @@
+1.36.0
+- Auto shows only the helpers you add. + Add Auto Rule opens a catalog (BUFFS / WORLD / AMMO); pick one to put it on the list with its own Config Builder. Drop with ×. Old setups still list helpers that were already on.
+
 1.35.0
 - Cave expanded Walk and Lure settings sit on a shared grid: matching section labels, caption-over-field numbers, and even column spacing so Skip Near / Repath / Stuck / Retry line up with Start / Pack / Step.
 
