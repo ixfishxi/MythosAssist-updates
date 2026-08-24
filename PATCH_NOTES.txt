@@ -1,3 +1,6 @@
+1.35.0
+- Cave expanded Walk and Lure settings sit on a shared grid: matching section labels, caption-over-field numbers, and even column spacing so Skip Near / Repath / Stuck / Retry line up with Start / Pack / Step.
+
 1.34.0
 - Cave expanded Browse opens a real file window in scripts/ so you pick a .txt route instead of stretching an inline list under the Route row.
 
