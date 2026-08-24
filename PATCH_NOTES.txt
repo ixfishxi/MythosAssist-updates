@@ -1,3 +1,6 @@
+1.33.0
+- Alerts: every rule now has full Target Action and Cave Action (Off / Pause / Disable), including Monster. T and C are independent — pause or disable targeting without touching Cave Walk, and the other way around.
+
 1.32.0
 - Icons: name a created icon on the Create Icon footer, or double-click the tray caption to rename it. Same label Show Labels uses under the icon on the client.
 
