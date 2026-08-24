@@ -1,3 +1,6 @@
+1.27.0
+- Other and Settings Updates: Get 1.14.82 downloads the previous stable Assist from GitHub so you can revert from 2.0 without hunting old exes.
+
 1.26.0
 - NEW Auto Config Builder: Haste and Buff chips use vocation spell presets, Change Gold has 25/50/100/200 stacks, Arrow/Hand Fill have ammo and thrown-weapon chips, Shovel can Skip monsters, and Blessed Stake can Add nearby or tap a corpse chip to remove it.
 
