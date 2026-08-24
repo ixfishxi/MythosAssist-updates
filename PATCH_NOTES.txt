@@ -1,3 +1,6 @@
+1.30.0
+- Overlay type is 75% larger across the Light bar and every popout (Heal through Save). Windows grew just enough to stay readable and tidy, and tall cards stop before they cover the client.
+
 1.29.0
 - Icons Create: item catalog and Bind to action sit side by side so the grid uses the 760-wide popout instead of stacking under a tall bind list. Sprite groups wrap, bind groups wrap, and the live action list scrolls.
 
