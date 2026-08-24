@@ -1,3 +1,6 @@
+1.23.0
+- NEW Light bar cluster: Alert / Targ / CBot / MASTER pips match the live toggles (click to flip). Cave remembers Quick Add vs expanded between opens. Quick Add sits flush on the bar, bigger TILES + LOGIC chips for every cavebot waypoint type.
+
 1.22.0
 - NEW Save tab: list-card of named setups with Save, Save As, and Load. Save writes the setup JSON plus the bound cave script. Load always applies the cavebot, then asks whether to load targeting too. Same setups/ + scripts/*.txt as the old profile bar. Click opens, click again or ESC closes.
 
